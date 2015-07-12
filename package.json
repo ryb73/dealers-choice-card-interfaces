@@ -1,0 +1,19 @@
+{
+  "name": "dc-card-interfaces",
+  "version": "1.0.0",
+  "description": "Dealer's Choice card interfaces",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryb73/dealers-choice-card-interfaces.git"
+  },
+  "author": "Ryan Biwer",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ryb73/dealers-choice-card-interfaces/issues"
+  },
+  "homepage": "https://github.com/ryb73/dealers-choice-card-interfaces",
+  "dependencies": {
+    "node-uuid": "^1.4.3"
+  }
+}
